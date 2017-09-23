@@ -9,7 +9,7 @@ using Java.Interop;
 
 namespace App4
 {
-    [Activity(Label = "App4", MainLauncher = false, Icon = "@drawable/icon", Theme = "@style/Theme.AppCompat")]
+    [Activity(Label = "App4", MainLauncher = false, Icon = "@drawable/icon")]
     public class CropResultActivity : AppCompatActivity
     {
 

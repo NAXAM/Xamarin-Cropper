@@ -1,3 +1,4 @@
+using System;
 using Com.Theartofdev.Edmodo.Cropper;
 
 namespace App4
@@ -11,16 +12,22 @@ namespace App4
 
         public CropImageView.Guidelines guidelines = CropImageView.Guidelines.OnTouch;
 
-        public Android.Util.Pair aspectRatio = new Android.Util.Pair(1, 1);
+        public Tuple<int, int> aspectRatio = new Tuple<int, int>(1, 1);
 
         public bool autoZoomEnabled;
 
         public int maxZoomLevel;
 
-        public bool fixAspectRatio;
+		public bool multitouch;
+
+		public bool fixAspectRatio;
 
         public bool showCropOverlay;
 
         public bool showProgressBar;
+
+		public bool flipHorizontally;
+
+		public bool flipVertically;
     }
 }
