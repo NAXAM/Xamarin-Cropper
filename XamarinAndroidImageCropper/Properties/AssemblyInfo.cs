@@ -6,13 +6,13 @@ using Android.App;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Naxam.ImageCropper.Droid")]
+[assembly: AssemblyTitle("ImageCropper.Droid")]
 [assembly: AssemblyDescription("Xamarin.Android binding library - ImageCropper")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("NAXAM COMPANY LIMITED")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("X Bindings")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
-[assembly: AssemblyTrademark("NAXAM")]
+[assembly: AssemblyCopyright("")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
 

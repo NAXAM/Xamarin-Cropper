@@ -4,17 +4,17 @@
         <!-- Required elements-->
         <id>XamarinAndroidImageCropper</id>
         <version>2.5.0</version>
-        <authors>NAXAM CO.,LTD</authors>
+        <authors>NAXAM CO.,LTD, Michele Scandura</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <title>Naxam - Image Cropper for Android</title>
+        <title>Image Cropper for Android</title>
         <summary>Xamarin.Android Binding Library - Image Cropper</summary>
         <description>Xamarin.Android Binding Library - Image Cropper</description>
-        <releaseNotes>Image Cropper v3.1.0</releaseNotes>
+        <releaseNotes>Image Cropper v2.5.0</releaseNotes>
         <iconUrl>https://github.com/NAXAM/Xamarin-Cropper/raw/master/art/pkg_icon.png</iconUrl>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/Xamarin-Cropper</projectUrl>
-        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <copyright>Copyright (c) 2017 NAXAM & Michele Scandura</copyright>
         <tags>Xamarin.Android, android-image-cropper, image-cropper</tags>
         <dependencies>
             <dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.4.0.2" />
